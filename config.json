@@ -33,7 +33,7 @@
       "target": "\"chain.html\"",
       "replace_by": "\"/chain\""
     },
-     {
+    {
       "target": "\"clients.html\"",
       "replace_by": "\"/clients\""
     },
