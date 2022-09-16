@@ -32,63 +32,63 @@
     {
       "target": "\"chain.html\"",
       "replace_by": "\"/chain\""
-    }
+    },
      {
       "target": "\"clients.html\"",
       "replace_by": "\"/clients\""
-    }
+    },
  {
       "target": "\"contact.html\"",
       "replace_by": "\"/contact\""
-    }
+    },
  {
       "target": "\"clients.html\"",
       "replace_by": "\"/clients\""
-    }
+    },
  {
       "target": "\"detail_jobs.html\"",
       "replace_by": "\"/detail_jobs\""
-    }
+    },
 {
       "target": "\"detail_post.html\"",
       "replace_by": "\"/detail_post\""
-    }
+    },
 {
       "target": "\"detail_project.html\"",
       "replace_by": "\"/detail_project\""
-    }
+    },
 {
       "target": "\"detail_jobs.html\"",
       "replace_by": "\"/detail_jobs\""
-    }
+    },
 {
       "target": "\"detail_project-categories.html\"",
       "replace_by": "\"/detail_project-categories\""
-    }
+    },
 {
       "target": "\"detail_services-rendered.html\"",
       "replace_by": "\"/detail_services-rendered\""
-    }
+    },
 {
       "target": "\"detail_team.html\"",
       "replace_by": "\"/detail_team\""
-    }
+    },
 {
       "target": "\"inschrijven.html\"",
       "replace_by": "\"/inschrijven\""
-    }
+    },
 {
       "target": "\"inschrijven-bootcamp.html\"",
       "replace_by": "\"/inschrijven-bootcamp\""
-    }
+    },
 {
       "target": "\"jobs.html\"",
       "replace_by": "\"/jobs\""
-    }
+    },
 {
       "target": "\"password-only.html\"",
       "replace_by": "\"/password-only\""
-    }
+    },
 {
       "target": "\"society.html\"",
       "replace_by": "\"/society\""
@@ -157,91 +157,91 @@
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
     {
       "name": "clients",
       "filepath": "clients.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "contact",
       "filepath": "contact.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "detail_jobs",
       "filepath": "detail_jobs.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "detail_post",
       "filepath": "detail_post.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "detail_project",
       "filepath": "detail_project.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "detail_project-categories",
       "filepath": "detail_project-categories.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "detail_services-rendered",
       "filepath": "detail_services-rendered.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "detail_team",
       "filepath": "detail_team.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "inschrijven",
       "filepath": "inschrijven.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "inschrijven-bootcamp",
       "filepath": "inschrijven-bootcamp.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "jobs",
       "filepath": "jobs.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "password-only",
       "filepath": "password-only.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
-    }
+    },
 {
       "name": "society",
       "filepath": "society.html",
