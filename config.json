@@ -6,32 +6,92 @@
   },
   "links_replacements": [
     {
-      "target": "\"developers.html\"",
-      "replace_by": "\"/developers\""
+      "target": "\"academy.html\"",
+      "replace_by": "\"/academy\""
     },
     {
-      "target": "\"about.html\"",
-      "replace_by": "\"/about\""
+      "target": "\"agency.html\"",
+      "replace_by": "\"/agency\""
     },
     {
-      "target": "\"faq.html\"",
-      "replace_by": "\"/faq\""
+      "target": "\"bootcamp.html\"",
+      "replace_by": "\"/bootcamp\""
     },
     {
       "target": "\"index.html\"",
       "replace_by": "\"/\""
     },
     {
-      "target": "\"pricing.html\"",
-      "replace_by": "\"/pricing\""
+      "target": "\"branding.html\"",
+      "replace_by": "\"/branding\""
     },
     {
-      "target": "\"privacy-policy.html\"",
-      "replace_by": "\"/privacy-policy\""
+      "target": "\"business-club.html\"",
+      "replace_by": "\"/business-club\""
     },
     {
-      "target": "\"terms-of-service.html\"",
-      "replace_by": "\"/terms-of-service\""
+      "target": "\"chain.html\"",
+      "replace_by": "\"/chain\""
+    }
+     {
+      "target": "\"clients.html\"",
+      "replace_by": "\"/clients\""
+    }
+ {
+      "target": "\"contact.html\"",
+      "replace_by": "\"/contact\""
+    }
+ {
+      "target": "\"clients.html\"",
+      "replace_by": "\"/clients\""
+    }
+ {
+      "target": "\"detail_jobs.html\"",
+      "replace_by": "\"/detail_jobs\""
+    }
+{
+      "target": "\"detail_post.html\"",
+      "replace_by": "\"/detail_post\""
+    }
+{
+      "target": "\"detail_project.html\"",
+      "replace_by": "\"/detail_project\""
+    }
+{
+      "target": "\"detail_jobs.html\"",
+      "replace_by": "\"/detail_jobs\""
+    }
+{
+      "target": "\"detail_project-categories.html\"",
+      "replace_by": "\"/detail_project-categories\""
+    }
+{
+      "target": "\"detail_services-rendered.html\"",
+      "replace_by": "\"/detail_services-rendered\""
+    }
+{
+      "target": "\"detail_team.html\"",
+      "replace_by": "\"/detail_team\""
+    }
+{
+      "target": "\"inschrijven.html\"",
+      "replace_by": "\"/inschrijven\""
+    }
+{
+      "target": "\"inschrijven-bootcamp.html\"",
+      "replace_by": "\"/inschrijven-bootcamp\""
+    }
+{
+      "target": "\"jobs.html\"",
+      "replace_by": "\"/jobs\""
+    }
+{
+      "target": "\"password-only.html\"",
+      "replace_by": "\"/password-only\""
+    }
+{
+      "target": "\"society.html\"",
+      "replace_by": "\"/society\""
     }
   ],
   "file_links_replacement": [
@@ -50,22 +110,22 @@
   ],
   "transforms": [
     {
-      "name": "developers",
-      "filepath": "developers.html",
+      "name": "academy",
+      "filepath": "academy.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "about",
-      "filepath": "about.html",
+      "name": "agency",
+      "filepath": "agency.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "faq",
-      "filepath": "faq.html",
+      "name": "bootcamp",
+      "filepath": "bootcamp.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
@@ -78,22 +138,113 @@
       "apply_file_links_replacements": false
     },
     {
-      "name": "pricing",
-      "filepath": "pricing.html",
+      "name": "branding",
+      "filepath": "branding.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "privacy-policy",
-      "filepath": "privacy-policy.html",
+      "name": "business-club",
+      "filepath": "business-club.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
     },
     {
-      "name": "terms-of-service",
-      "filepath": "terms-of-service.html",
+      "name": "chain",
+      "filepath": "chain.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+    {
+      "name": "clients",
+      "filepath": "clients.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "contact",
+      "filepath": "contact.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "detail_jobs",
+      "filepath": "detail_jobs.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "detail_post",
+      "filepath": "detail_post.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "detail_project",
+      "filepath": "detail_project.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "detail_project-categories",
+      "filepath": "detail_project-categories.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "detail_services-rendered",
+      "filepath": "detail_services-rendered.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "detail_team",
+      "filepath": "detail_team.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "inschrijven",
+      "filepath": "inschrijven.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "inschrijven-bootcamp",
+      "filepath": "inschrijven-bootcamp.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "jobs",
+      "filepath": "jobs.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "password-only",
+      "filepath": "password-only.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    }
+{
+      "name": "society",
+      "filepath": "society.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true
